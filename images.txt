@@ -1,3 +1,1 @@
 apache/doris:build-env-for-2.0-no-avx2
-
-centos
